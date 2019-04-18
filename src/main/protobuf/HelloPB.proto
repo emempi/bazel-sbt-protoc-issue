@@ -1,0 +1,5 @@
+syntax = "proto2";
+
+message HelloMsg {
+	optional int32 world = 1;
+}
